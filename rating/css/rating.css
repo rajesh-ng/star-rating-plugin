@@ -1,0 +1,25 @@
+﻿.rating-icon {
+	
+	width:16px;
+	height:16px;
+	background-repeat: no-repeat;
+	padding-left:16px;
+	cursor:pointer;
+	
+}
+.rating-blank
+{
+	background-image: url('image/star_blank.png');
+	background-position: 0 0;
+}
+.rating-normal
+{	
+	background-image: url('image/star-rating.png');
+	background-position: 0 0;
+	
+}
+.rating-high
+{	
+	background-position: 0 -16px;
+}
+
